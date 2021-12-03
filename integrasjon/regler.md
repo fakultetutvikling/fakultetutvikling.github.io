@@ -1,1 +1,1 @@
-
+# Integrasjonsregler
