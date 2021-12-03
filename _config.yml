@@ -2,7 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 title: fakultet
 
 aux_links:
-  "R2:
+  "R2":
     - "//fakultetutvikling.github.io"
 
 aux_links_new_tab: false
